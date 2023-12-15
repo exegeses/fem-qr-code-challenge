@@ -9,11 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     - [Links](#links)
 - [My process](#my-process)
     - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ## Overview
@@ -24,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [QR code challenge](https://github.com/exegeses/fem-qr-code-challenge)
 
 ## My process
 
@@ -33,7 +30,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Create local repository/project
 - Create HTML index file
 - Create CSS file
-- Enjoy
+- Enjoy!
 
 
 ### Built with
@@ -45,7 +42,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
+- Website - [Marcos Pinardi @exegeses](https://github.com/exegeses)
+- Frontend Mentor - [@exegeses](https://www.frontendmentor.io/profile/exegeses)
+- Twitter - [@exegeses](https://www.twitter.com/exegeses)
